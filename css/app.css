@@ -1,11 +1,27 @@
 /*this is my stylesheet for the homepage*/
 
-*{outline: 1px solid red;}
+/*{outline: 1px solid white;}*/
 /*header styles*/
-/*naub body styles*/
+
+body/*body styles*/
+{background-color: white;
+}
+
+#me{
+  border-radius: 50%;
+}
+h2,{
+  font-family: 'Julius Sans One', sans-serif;
+  color: black;
+}
+h6{
+  font-family: 'BenchNine', sans-serif;}
+p{
+  font-family: 'Open Sans Condensed', sans-serif;}
+nav{
+  font-family: 'Special Elite', cursive;
+  font-size: 150%;
+  color: black;
+  margin-left: 59%;
+}
 /*footer styles*/
-h1,h6{font-family: cursive;}
-header{}
-  header h1 {color:red;background-color: yellow;}
-  nav{}
-    footer{}
