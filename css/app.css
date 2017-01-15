@@ -8,9 +8,13 @@ body/*body styles*/
 }
 
 #me{
-  border-radius: 50%;
+  border-radius: 30%;
+  margin-left: 30%;
 }
-h2,{
+#index-1{
+  margin-left: 30%
+}
+h2{
   font-family: 'Julius Sans One', sans-serif;
   color: black;
 }
@@ -19,9 +23,10 @@ h6{
 p{
   font-family: 'Open Sans Condensed', sans-serif;}
 nav{
-  font-family: 'Special Elite', cursive;
+  margin-top: -10%;
+  font-family:serif;
   font-size: 150%;
-  color: black;
+  color: grey;
   margin-left: 59%;
 }
 /*footer styles*/
