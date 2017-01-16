@@ -51,7 +51,7 @@ nav{
   font-size: 150%;
   color: grey;
   margin-left: 59%;
-  list-style:
+  word-spacing: 15pt;
 }
 nav.hover{
   color: grey;
