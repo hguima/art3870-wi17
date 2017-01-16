@@ -11,8 +11,8 @@ font-family: 'Istok Web', sans-serif;
 font-family: 'Vidaloka', serif;*/
 
 body/*body styles*/
-{background-color: white;
-  background-image: url("image/");
+{background-image: url("../images/bg.jpg");
+background-repeat: repeat;
 }
 
 #me{
@@ -29,6 +29,7 @@ body/*body styles*/
 #edu{
   margin-top:10%;
   margin-left: 30%;
+  color: grey;
   font-family: 'Playfair Display', serif;;
 }
 h2{
@@ -36,17 +37,19 @@ h2{
   color: black;
 }
 h6{
-font-family: 'Playfair Display', serif;}
+font-family: 'Playfair Display', serif;
+color: ;}
 p,ul,li{
-  font-family: 'Playfair Display', serif;}
+  font-family: 'Playfair Display', serif;
+color: grey;}
 ul{
   font-weight: bold;
 }
 nav{
-  margin-top: -10%;
+  margin-top: -5%;
   font-family: 'Satisfy', cursive;
   font-size: 150%;
-  color: red;
+  color: grey;
   margin-left: 59%;
   list-style:
 }
