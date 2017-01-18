@@ -10,7 +10,10 @@ font-family: 'Kaushan Script', cursive;
 font-family: 'Istok Web', sans-serif;
 font-family: 'Vidaloka', serif;*/
 
-/*body styles*/
+body{
+  background-image: url("../images/bg.jpg");
+  background-repeat:repeat-y;
+}/*body styles*/
 
 
 #me{
@@ -32,10 +35,6 @@ font-family: 'Vidaloka', serif;*/
 }
 #experience{
   margin-left: 45%
-}
-div.background {
-  background: url("../images/bg.jpg");
-  background-repeat:repeat-y;
 }
 
 div.transbox {
