@@ -10,10 +10,8 @@ font-family: 'Kaushan Script', cursive;
 font-family: 'Istok Web', sans-serif;
 font-family: 'Vidaloka', serif;*/
 
-body/*body styles*/
-{background-image: url("../images/bg.jpg");
-background-repeat: repeat;
-}
+/*body styles*/
+
 
 #me{
   border-radius: 70%;
@@ -24,13 +22,32 @@ background-repeat: repeat;
 }
 #basic{
   margin-left: 45%;
-  margin-top: -20%;
+  margin-top: -15%;
 }
 #edu{
   margin-top:10%;
   margin-left: 30%;
-  color: grey;
+  color: black;
   font-family: 'Playfair Display', serif;;
+}
+#experience{
+  margin-left: 45%
+}
+div.background {
+  background: url("../images/bg.jpg");
+  background-repeat:repeat-y;
+}
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  opacity: 0.6;
+}
+
+div.transbox p,li {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
 }
 h2{
   font-family: 'Julius Sans One', sans-serif;
@@ -41,7 +58,7 @@ font-family: 'Playfair Display', serif;
 color: ;}
 p,ul,li{
   font-family: 'Playfair Display', serif;
-color: grey;}
+color: black;}
 ul{
   font-weight: bold;
 }
@@ -54,7 +71,7 @@ nav{
   word-spacing: 15pt;
 }
 nav.hover{
-  color: grey;
+  color: black;
 }
 figcaption{
   margin-top: -10%;
